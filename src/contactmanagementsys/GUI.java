@@ -37,5 +37,6 @@ public class GUI {
         tf.setFont(new Font("Tahoma", Font.PLAIN, 17));
         
         return tf;
+        
     }
 }
